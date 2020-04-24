@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bsegunto\\SecuringAngularApps.API\\SecuringAngularApps.API.csproj": {}
+    "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.API\\SecuringAngularApps.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bsegunto\\SecuringAngularApps.API\\SecuringAngularApps.API.csproj": {
+    "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.API\\SecuringAngularApps.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bsegunto\\SecuringAngularApps.API\\SecuringAngularApps.API.csproj",
+        "projectUniqueName": "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.API\\SecuringAngularApps.API.csproj",
         "projectName": "SecuringAngularApps.API",
-        "projectPath": "C:\\Users\\bsegunto\\SecuringAngularApps.API\\SecuringAngularApps.API.csproj",
+        "projectPath": "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.API\\SecuringAngularApps.API.csproj",
         "packagesPath": "C:\\Users\\bsegunto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bsegunto\\SecuringAngularApps.API\\obj\\",
+        "outputPath": "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

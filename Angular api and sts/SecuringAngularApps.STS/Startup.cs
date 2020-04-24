@@ -54,6 +54,7 @@ namespace SecuringAngularApps.STS
                     options.Events.RaiseInformationEvents = true;
                     options.Events.RaiseFailureEvents = true;
                     options.Events.RaiseSuccessEvents = true;
+                    options.Authentication.CookieLifetime = TimeSpan.FromMinutes(15);
                 })
                 .AddInMemoryIdentityResources(Config.GetIdentityResources())
                 .AddInMemoryApiResources(Config.GetApiResources())

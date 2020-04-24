@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bsegunto\\Desktop\\ANGULAR SECURITY FRIDAY\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj": {}
+    "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bsegunto\\Desktop\\ANGULAR SECURITY FRIDAY\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj": {
+    "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bsegunto\\Desktop\\ANGULAR SECURITY FRIDAY\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj",
+        "projectUniqueName": "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj",
         "projectName": "SecuringAngularApps.STS",
-        "projectPath": "C:\\Users\\bsegunto\\Desktop\\ANGULAR SECURITY FRIDAY\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj",
+        "projectPath": "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.STS\\SecuringAngularApps.STS.csproj",
         "packagesPath": "C:\\Users\\bsegunto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bsegunto\\Desktop\\ANGULAR SECURITY FRIDAY\\SecuringAngularApps.STS\\obj\\",
+        "outputPath": "C:\\Users\\bsegunto\\Desktop\\securing-angular-client\\Team-Kangkong-2020\\Angular api and sts\\SecuringAngularApps.STS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,6 +94,10 @@
             "Serilog.Sinks.File": {
               "target": "Package",
               "version": "[4.0.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
             }
           },
           "imports": [

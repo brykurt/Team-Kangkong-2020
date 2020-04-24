@@ -24,6 +24,24 @@ namespace SecuringAngularApps.API.Controllers
             _context = context;
         }
 
+        [HttpGet("AuthContext")]
+        public IActionResult GetAuthContext()
+        {
+            var userId = this.User.FindFirstValue(JwtClaimTypes.Subject);
+            var profile = _context.UserProfiles.Include("UserPermissions").FirstOrDefault(u => u.Id == userId);
+            if (profile == null) return NotFound();
+            var context = new AuthContext
+            {
+                UserProfile = profile,
+                Claims = User.Claims.Select(c => new SimpleClaim { Type = c.Type, Value = c.Value }).ToList()
+            };
+
+            return Ok(context);
+        }
+    }
+        }
+
+
         // GET: api/Projects
         [HttpGet]
         public IEnumerable<Project> GetProjects()

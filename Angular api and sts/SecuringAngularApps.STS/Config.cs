@@ -28,7 +28,7 @@ namespace SecuringAngularApps.STS{
                     RequireConsent = false,
 
 
-                    RedirectUris =           { "http://localhost:4200/signin-callback",  },
+                    RedirectUris =           { "http://localhost:4200/signin-callback", "http://localhost:4200/assets/silent-callback.html" },
                     PostLogoutRedirectUris = { "http://localhost:4200/signout-callback" },
                     AllowedCorsOrigins =     { "http://localhost:4200" },
 
@@ -38,7 +38,7 @@ namespace SecuringAngularApps.STS{
                         IdentityServerConstants.StandardScopes.Profile,
                         "projects-api"
                     },
-                    AccessTokenLifetime = 5
+                    AccessTokenLifetime = 600
                 }
             };
 
