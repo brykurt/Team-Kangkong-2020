@@ -1,0 +1,45 @@
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.deps.json
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.runtimeconfig.json
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.runtimeconfig.dev.json
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.dll
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.pdb
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.csprojAssemblyReference.cache
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.csproj.CoreCompileInputs.cache
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorAssemblyInfo.cache
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorAssemblyInfo.cs
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.AssemblyInfoInputs.cache
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.AssemblyInfo.cs
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorTargetAssemblyInfo.cache
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.dll
+D:\openid-and-oauth2-securing-angular-apps\03\demos\before\SecuringAngularApps.API\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.pdb
+C:\Users\bsegunto\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\bsegunto\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\bsegunto\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\bsegunto\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.deps.json
+C:\Users\bsegunto\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.runtimeconfig.json
+C:\Users\bsegunto\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.runtimeconfig.dev.json
+C:\Users\bsegunto\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.dll
+C:\Users\bsegunto\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.pdb
+C:\Users\bsegunto\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorAssemblyInfo.cache
+C:\Users\bsegunto\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorAssemblyInfo.cs
+C:\Users\bsegunto\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.AssemblyInfoInputs.cache
+C:\Users\bsegunto\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.AssemblyInfo.cs
+C:\Users\bsegunto\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorTargetAssemblyInfo.cache
+C:\Users\bsegunto\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.dll
+C:\Users\bsegunto\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.pdb
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.deps.json
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.runtimeconfig.json
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.runtimeconfig.dev.json
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.dll
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\bin\Debug\netcoreapp2.2\SecuringAngularApps.API.pdb
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.csprojAssemblyReference.cache
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorAssemblyInfo.cache
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorAssemblyInfo.cs
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.AssemblyInfoInputs.cache
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.AssemblyInfo.cs
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.RazorTargetAssemblyInfo.cache
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.dll
+C:\Users\bsegunto\Desktop\securing-angular-client\Team-Kangkong-2020\Angular api and sts\SecuringAngularApps.API\obj\Debug\netcoreapp2.2\SecuringAngularApps.API.pdb
